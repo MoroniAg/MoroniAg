@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have 5 years of experience in the world of software development; I have done several projects, some of these for foreign companies, I also have experience as a team leader. I am at the forefront of technologies, updating my knowledge and developing new skills.  
+I possess 5 years of distinguished experience in software development, having delivered a wide array of projects, including several for reputed foreign entities. My extensive leadership expertise adds to my versatile skill set. I remain at the forefront of emerging technologies, frequently updating my knowledge and honing my proficiencies.
 
 
 ## 🌐 Socials:
