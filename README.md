@@ -1,5 +1,5 @@
 # 💫 About Me:
-I possess 5 years of distinguished experience in software development, having delivered a wide array of projects, including several for reputed foreign entities. My extensive leadership expertise adds to my versatile skill set. I remain at the forefront of emerging technologies, frequently updating my knowledge and honing my proficiencies.
+I possess 6 years of distinguished experience in software development, having delivered a wide array of projects, including several for reputed foreign entities. My extensive leadership expertise adds to my versatile skill set. I remain at the forefront of emerging technologies, frequently updating my knowledge and honing my proficiencies.
 
 
 ## 🌐 Socials:
