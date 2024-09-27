@@ -3,16 +3,24 @@ I possess 6 years of distinguished experience in software development, having de
 
 
 ## 🌐 Socials:
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moroni-aguilera/) 
 
 # 💻 Main Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+## Backend
+![Java]( https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Quarkus](https://img.shields.io/badge/quarkus-%236DB33F.svg?style=for-the-badge&logo=quarkus&logoColor=white)
-![Vert.x](https://img.shields.io/badge/vert.x-%236DB33F.svg?style=for-the-badge&logo=vert.x&logoColor=white)
-![Hibernate](https://img.shields.io/badge/hibernate-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/maven-%236DB33F.svg?style=for-the-badge&logo=maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/gradle-%236DB33F.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![Quarkus](https://img.shields.io/badge/quarkus-blue?style=for-the-badge&logo=quarkus&logoColor=white)
+![Vert.x](https://img.shields.io/badge/vert.x-purple?style=for-the-badge&logo=eclipsevertdotx&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-yellow?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/maven-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/gradle-%2302303A?style=for-the-badge&logo=gradle&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+## Frontend
+
 
 
 # 💻 Tech Stack:
