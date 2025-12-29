@@ -1,13 +1,27 @@
 # 💫 About Me:
-I possess 7 years of distinguished experience in software development, having delivered a wide array of projects, including several for reputed foreign entities. My extensive leadership expertise adds to my versatile skill set. I remain at the forefront of emerging technologies, frequently updating my knowledge and honing my proficiencies.
+I possess extensive experience in software development, having delivered a wide array of projects, including several for reputed foreign entities. My extensive leadership expertise adds to my versatile skill set. I remain at the forefront of emerging technologies, frequently updating my knowledge and honing my proficiencies.
 
 # 💻 Main Stack:
 ![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/quarkus-%23007d9c.svg?style=for-the-badge&logo=quarkus&logoColor=white)
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%23007ACC.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/scipy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+
+
 
 ![React](https://img.shields.io/badge/react-%230095D5.svg?style=for-the-badge&logo=react&logoColor=white) 
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -41,8 +55,8 @@ I possess 7 years of distinguished experience in software development, having de
  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
+ ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+ ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
@@ -53,6 +67,18 @@ I possess 7 years of distinguished experience in software development, having de
 
 # 📲 Projects:
 
+
+[![Feria21](https://img.shields.io/badge/Feria21_(April_2023_--_present)-Visit%20Site-blueviolet?style=for-the-badge)](https://test.feria21.com/)
+
+[![MyBudget](https://img.shields.io/badge/MyBudget_(May_2023_--_present)-GitHub-2ea44f?style=for-the-badge)](https://github.com/MoroniAg/my-budget)
+
+[![MyPorfolio_V1](https://img.shields.io/badge/MyPorfolio_V1_(Jan_2022_--_March_2022)-Visit%20Site-ffb347?style=for-the-badge)](https://moroniag.github.io/)
+
+[![MyPortfolio_V2](https://img.shields.io/badge/MyPortfolio_V2_(Jun_2025_--_present)-Project-0078D7?style=for-the-badge)](https://github.com/users/MoroniAg/projects/1)
+
+[![Java_Certification](https://img.shields.io/badge/Java_Certification_(Jul_2024_--_Oct_2024)-Repository-f89820?style=for-the-badge)](https://github.com/MoroniAg/Java17_Certification)
+
+[![Data_Science_Course](https://img.shields.io/badge/DataScienceCourse_(Ago_2025_--_present)-Repository-4B8BBE?style=for-the-badge)](https://github.com/MoroniAg/DataScienceCourse)
 
 
 # 📊 GitHub Stats:
