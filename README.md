@@ -72,7 +72,7 @@ I possess extensive experience in software development, having delivered a wide 
 
 [![MyBudget](https://img.shields.io/badge/MyBudget_(May_2023_--_present)-GitHub-2ea44f?style=for-the-badge)](https://github.com/MoroniAg/my-budget)
 
-[![MyPorfolio_V1](https://img.shields.io/badge/MyPorfolio_V1_(Jan_2022_--_March_2022)-Visit%20Site-ffb347?style=for-the-badge)](https://moroniag.github.io/)
+[![MyPortfolio_V1](https://img.shields.io/badge/MyPortfolio_V1_(Jan_2022_--_March_2022)-Visit%20Site-ffb347?style=for-the-badge)](https://moroniag.github.io/)
 
 [![MyPortfolio_V2](https://img.shields.io/badge/MyPortfolio_V2_(Jun_2025_--_present)-Project-0078D7?style=for-the-badge)](https://github.com/users/MoroniAg/projects/1)
 
