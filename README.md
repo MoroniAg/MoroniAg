@@ -78,7 +78,7 @@ I possess extensive experience in software development, having delivered a wide 
 
 [![Java_Certification](https://img.shields.io/badge/Java_Certification_(Jul_2024_--_Oct_2024)-Repository-f89820?style=for-the-badge)](https://github.com/MoroniAg/Java17_Certification)
 
-[![Data_Science_Course](https://img.shields.io/badge/DataScienceCourse_(Ago_2025_--_present)-Repository-4B8BBE?style=for-the-badge)](https://github.com/MoroniAg/DataScienceCourse)
+[![Data_Science_Course](https://img.shields.io/badge/DataScienceCourse_(Aug_2025_--_present)-Repository-4B8BBE?style=for-the-badge)](https://github.com/MoroniAg/DataScienceCourse)
 
 
 # 📊 GitHub Stats:
