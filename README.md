@@ -1,5 +1,7 @@
 # 💫 About Me:
-I possess extensive experience in software development, having delivered a wide array of projects, including several for reputed foreign entities. My extensive leadership expertise adds to my versatile skill set. I remain at the forefront of emerging technologies, frequently updating my knowledge and honing my proficiencies.
+I have solid experience in software development, having worked on different types of projects, including some for international clients.
+Over time, I’ve also taken on responsibilities that involve making decisions and guiding the direction of projects.
+I like to stay up to date with new technologies and keep improving my skills as I go.
 
 # 💻 Main Stack:
 ![Java](https://img.shields.io/badge/java-%23E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=white)
